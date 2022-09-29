@@ -78,6 +78,7 @@ public class Baekjoon1012 {
 				}
 			}
 			System.out.println(result);
+			sc.close();
 		}
 	}
 }
