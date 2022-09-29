@@ -8,7 +8,6 @@ public class Baekjoon1292 {
 		
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-		
 		int sum = 0;
 		int count = 1;
 	
