@@ -25,7 +25,6 @@ public class Baekjoon1292 {
 				}
 			}
 		}
-		
 		System.out.println(sum);
 		sc.close();
 	}
